@@ -1,7 +1,7 @@
 # Cifar10-Image-Classification-with-CNN
 There are different techniques to do an image classification. The Convolutional Neural Network was used here, with the goal of creating a model that extract specific features and predicts what an image is.
 
-Note - all these happens behind the scene.
+Note - all these happen behind the scene.
 
 **DATASET**
 
